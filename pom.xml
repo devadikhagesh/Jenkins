@@ -1,0 +1,18 @@
+<project>
+
+<!-- pom xml version -->
+<modelVersion>4.0.0</modelVersion>
+
+<!-- project name -->
+<artifactId>mymavenproject</artifactId>
+
+<!-- Organization -->
+<groupId>com.maha</groupId>
+
+<!-- version of artifact/component -->
+<version>1.0</version>
+
+<!-- packaging jar/war -->
+<packaging>jar</packaging>
+
+</project>
