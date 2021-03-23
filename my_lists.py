@@ -1,3 +1,4 @@
+import os
 list = [1,2,3,4,5,3]
 list.reverse()
 print("list data after reversing it:", list)
